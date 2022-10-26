@@ -1,1 +1,88 @@
+body{
+    text-align: center;
+    background-image: linear-gradient(#EA8D8D, #A890FE);
+    background-attachment: fixed;
+}
+tr{
+    line-height: 20px;
+}
 
+.whole_page{
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+}
+.header_text{
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    width: 60%;
+    margin-bottom: -10px;
+    color: black;
+}
+.Name{
+    overflow: hidden;
+}
+.firstname{
+    width: 49%;  
+}
+.lastname{
+    width: 49%;
+}
+.Name figcaption {
+    display: block;
+}
+h4{
+    color: black;
+    text-align: left;
+    padding-left: 70px;
+    
+}
+figcaption{
+    color: black;
+    font-size: 13px;
+}
+.button{
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    width: 60%;
+    background-color: white;
+}
+.button button{
+    background-color: green;
+    color:black;
+    border: 2px solid green;
+    font-size: 12px;
+    padding: 10px 25px;
+
+}
+.button button a{
+    color: white;
+}
+a:link{
+    text-decoration:none;
+}
+form{
+    text-align: left;
+}
+input{
+    padding: 5px 25px;
+    font-size: 15px;
+}
+select{
+    padding: 5px 5px;
+}
+.country_code{
+    color: #1f2833;
+}
+.user_gender{
+    color: black;
+}
+.Email input{
+    
+}
